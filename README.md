@@ -1,6 +1,11 @@
 # TartanHacks
 
 
+## Creators
+Lokesh Daita
+Jerry Li
+Justin Li
+Jason Ma
 
 
 ## Citations
