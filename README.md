@@ -2,10 +2,10 @@
 
 
 ## Creators
-Lokesh Daita
-Jerry Li
-Justin Li
-Jason Ma
+- Lokesh Daita
+- Jerry Li
+- Justin Li
+- Jason Ma
 
 
 ## Citations
